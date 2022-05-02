@@ -1,5 +1,3 @@
-![Image description here](https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif)
-
 <div align="center">
 I'm a data engineer with a strong analytical background with 4+ years of experience in working in data with a technical focus. 
 </div>
