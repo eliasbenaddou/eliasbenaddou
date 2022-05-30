@@ -17,6 +17,14 @@
 
 <br>
 
+---
+
+<br />
+
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasbenaddou&show_icons=true&theme=dark)
+
+---
+
 👨‍💻 My Repositories
 
 <div width="100%" align="center">
