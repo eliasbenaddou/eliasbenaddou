@@ -21,7 +21,7 @@
 
 <br />
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasbenaddou&show_icons=true&theme=dark)
+![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasbenaddou&show_icons=true&theme=dark)
 
 ---
 
