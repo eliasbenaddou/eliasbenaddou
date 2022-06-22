@@ -32,6 +32,8 @@
   <a align="left" href="https://github.com/eliasbenaddou/monzo_to_notion" title="Monzo To Notion"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasbenaddou&repo=monzo_to_notion&theme=react&border_color=61dafb&border_radius=10"></a>
 
   <a align="right" href="https://github.com/eliasbenaddou/eliasbenaddou-hugo" title="Hugo Blog"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasbenaddou&repo=eliasbenaddou-hugo&theme=react&border_color=61dafb&border_radius=5"></a>
+  
+  <a align="center" href="https://github.com/eliasbenaddou/gemini_api" title="Gemini API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasbenaddou&repo=gemini_api&theme=react&border_color=61dafb&border_radius=5"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
