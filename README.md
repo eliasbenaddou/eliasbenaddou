@@ -7,7 +7,7 @@
 
 - I enjoy writing technical articles on best practises in data engineering, how-to's and sharing cool stuff I make.
 - I'm interested in personal finance and building tools to automate and stay on top of important things in life.
-- Read my blog [here](https://eliasbenaddouidrissi.com)
+- Read my blog [here](https://eliasbenaddouidrissi.dev)
 
 ### Key skills
 
